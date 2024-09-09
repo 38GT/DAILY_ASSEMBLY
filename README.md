@@ -1,3 +1,3 @@
 # DAILY_ASSEMBLY
 
-GT FACTORY is working everyday
+The GT factory runs 24/7
