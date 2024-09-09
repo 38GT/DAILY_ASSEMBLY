@@ -1,3 +1,3 @@
 # DAILY_ASSEMBLY
 
-The GT factory runs 24/7
+The GT factory operates 24/7
