@@ -6,3 +6,7 @@
 4. Stream
 5. Collector
 6. Collection.containsAll
+7. Collections.binarySearch
+8. Arrays.binarySearch
+9. Collections.sort
+10. Arrays.sort
