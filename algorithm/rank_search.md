@@ -1,8 +1,9 @@
 <h1 style="font-size: 48px;">Rank Search</h1>
 
-1. 이진 탐색 포인터 두기 연습 필요
+1. 이진 탐색 포인터 두기 연습 필요 
 2. 마지막에 정렬 다시 되돌리기 작업 안해줬음.
-
+3. 이진 탐색 mid = (start + end)/2, target 비교
+4. 투포인터 알고리즘 vs 이진 탐색 비교해서 이해해보기
 ```javascript
 function solution(info, query) {
     
