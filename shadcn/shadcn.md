@@ -4,5 +4,4 @@
    ex> npx shadcn@latest add separator -> separator 다운로드
 
 2. components.json에서 다운로등 경로 등 여러 설정을 할 수 있다.
-
-   
+3. globals.css파일을 없애는 방식으로 작업하는지 알아봐야 한다.
